@@ -1,8 +1,4 @@
 streamlit
 pydub
-io
-tempfile
-base64
-pydub
 openai
 dotenv
