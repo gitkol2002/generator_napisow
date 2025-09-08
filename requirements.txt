@@ -1,5 +1,5 @@
 streamlit
-pydub==1.0.3
+pydub
 io
 tempfile
 base64
